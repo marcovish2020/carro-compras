@@ -1,0 +1,18 @@
+2021-03-12 17:01:18 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found; SQL statement:
+select * from usuario [42102-200]
+2021-03-12 17:02:05 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found; SQL statement:
+select * from usuario [42102-200]
+2021-03-12 17:02:06 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found; SQL statement:
+select * from usuario [42102-200]
+2021-03-12 17:02:06 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found; SQL statement:
+select * from usuario [42102-200]
+2021-03-12 17:35:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found; SQL statement:
+select usuario0_.id as id1_0_, usuario0_.email as email2_0_, usuario0_.fecha_nacimiento as fecha_na3_0_, usuario0_.password as password4_0_ from usuario usuario0_ where usuario0_.email=? and usuario0_.password=? [42102-200]
+2021-03-12 17:51:20 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USUARIO" not found; SQL statement:
+select usuario0_.id as id1_0_, usuario0_.email as email2_0_, usuario0_.fecha_nacimiento as fecha_na3_0_, usuario0_.password as password4_0_ from usuario usuario0_ where usuario0_.email=? and usuario0_.password=? [42102-200]
